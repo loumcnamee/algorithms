@@ -15,3 +15,5 @@ For help setting up VS Code for C++ on Windows refer to the following guide: htt
 
 <TODO>Add build instructions </TODO>
  
+
+ ## Algorithms
